@@ -17,7 +17,7 @@ public class GUIBFSVisualizer {
     private Point prevStart;
     private Point end;
     private Point prevEnd;
-
+    
     private int switchClick;
     private int hasPath;
 
